@@ -18,4 +18,6 @@ Cette documentation à été conçu dans le cadre de mes études comme aide-mém
 J'aime bien reprendre la citation suivante pour marquer l'importance d'un gestionnaire de source : 
 > if the code isn't checked into source control, it doesn't exist. - Jeff Atwood
 
+> Si du code n’est pas dans le contrôle de source, alors il n’existe pas. - Jeff Atwood
+
 Hésitez pas à expérimenter pour bien comprendre le fonctionnement de Git. 
