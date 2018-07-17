@@ -5,10 +5,10 @@
 </p>
 
 ## Description
-Voici la documentation technique requise pour faire l'initialisation d'un répertoire en ligne de commande avec le logiciel de gestion de versions Git. Veuillez consulter le [Wiki](https://github.com/ma-lemire/Git-initialization/wiki) pour suivre les instructions.
+Voici la documentation technique requise pour faire l'initialisation d'un dépôt en ligne de commande avec le logiciel de gestion de versions Git. Veuillez consulter le [Wiki](https://github.com/ma-lemire/Git-initialization/wiki) pour suivre les instructions.
 
 ## Prérequis
-* un Compte Github (premium pour les répertoires privés)
+* un Compte Github (premium pour les dépôts privés)
 * un Accès à un terminal
 * un Accès à internet
 
