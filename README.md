@@ -13,7 +13,7 @@ Voici la documentation technique requise pour faire l'initialisation d'un réper
 * un Accès à internet
 
 ## post-scriptum
-Cette documentation à été conçu dans le cadre de mes études comme aide-mémoire, je la partage pour ce que ça peut intéresser car il est très important d'utiliser un gestionnaire de source lorsque nous développons.
+Cette documentation à été conçu dans le cadre de mes études comme aide-mémoire, je la partage si ça peut aider quelqu'un. Veuillez noter qu'il est **très important d'utiliser un gestionnaire de source** lorsque nous développons.
 
 J'aime bien reprendre la citation suivante pour marquer l'importance d'un gestionnaire de source : 
 > if the code isn't checked into source control, it doesn't exist. - Jeff Atwood
